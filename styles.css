@@ -1,0 +1,191 @@
+
+#menu{
+	margin-top: 40px;
+	width: 100%;
+	height: 100px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.fixedwidth{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#name img{
+	height: 50px;
+	size : 50px;
+	float:left;
+}
+
+#menucontent ul{
+	margin: 0;
+	padding: 0;
+}
+
+#menucontent li{
+	list-style-type: none;
+	font-size:15px;
+	float:right;
+	padding: 15px 20px 10px 0;
+}
+
+#menucontent li a{
+	color:#545454;
+	
+}
+a:link{
+	text-decoration: none;
+
+}
+
+a:visited{
+	font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active{
+	font-weight: bold;
+}
+
+.break{
+	clear:both;
+}
+
+#aboutme{
+	font-size: 3em;
+	font-weight:bold;
+	margin-left: 0px;
+	
+}
+#pagecontent{
+	height: 150px;
+	width: 1000px;
+	margin: 0px auto;
+}
+#pagecontent p{
+	color: #867970;
+}
+
+#me{
+	height: 160px;
+	width: 500px;
+	text-align:center;
+	padding-top: 70px;
+	margin-top: -160px;
+	margin-left: 400px;
+
+}
+
+#skills{
+	height: 100px;
+	width: 1000px;
+	margin: 0;
+	padding: 0;
+	margin: 0px auto;
+	padding-top: 100px;
+	padding-right: 80px;
+
+}
+
+
+#skills li{
+	list-style-type: none;
+	font-size:1.5em;
+	color:#545454;
+	float: left;
+	padding: 15px 110px 10px 110px;
+	border-bottom: 1px solid;
+}
+
+.info-content{
+	height: 100px;
+	width: 1000px;
+	margin: 0;
+	padding: 0;
+	margin: 0px auto;
+}
+.info-content ul{
+	width: 250px;
+	float:left;
+	margin: 0 auto;
+	padding-right: 40px;
+
+}
+
+.info-content li{
+	list-style-type: none;
+}
+
+#one{
+	width: 200px;
+	height: 300px;
+	margin-left: 70px;
+}
+
+#two{
+	width: 200px;
+	height: 300px;
+	margin-left: -10px;
+}
+
+#three{
+	width: 200px;
+	height: 300px;
+	margin-left: 40px;
+}
+
+#footer{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#contactme{
+	font-size: 3em;
+	font-weight:bold;
+	margin-left: 0px;
+	float: left;
+
+	
+}
+#contactcontent{
+	height: 150px;
+	width: 1000px;
+	margin: 0px auto;
+	color: #867970;
+}
+
+#form{
+	float: right;
+	width: 500px;
+	height: 500px;
+}
+#form p{
+	font-weight: 600;
+	font-size: .9em;
+
+}
+#form input{
+	width: 400px;
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	margin-top:4px;
+	font-size: 0.8em;
+	color: #3a3a3a;
+}
+#form textarea{
+	border: 1px solid #ccc;
+	width: 400px;
+	height: 200px;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	background: #f9f9f9;
+	margin-top: 4px;
+	font-size: 1.1em;
+}
+#submit input{
+	width: 80px;
+	height: 40px;
+}
